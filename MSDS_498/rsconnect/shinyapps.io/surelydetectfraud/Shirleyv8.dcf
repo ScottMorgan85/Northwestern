@@ -1,0 +1,12 @@
+name: Shirleyv8
+title: Shirleyv8
+username:
+account: surelydetectfraud
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 756657
+bundleId: 1912788
+url: https://surelydetectfraud.shinyapps.io/Shirleyv8/
+when: 1551655902.51649
+asMultiple: FALSE
+asStatic: FALSE
