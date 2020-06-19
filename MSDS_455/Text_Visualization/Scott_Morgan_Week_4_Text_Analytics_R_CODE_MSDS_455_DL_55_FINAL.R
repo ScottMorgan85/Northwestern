@@ -42,10 +42,10 @@
 #2. DATA PREPARATION AND PROCESSING----
 
   #2.1 Twitter Log In Extraction----
-  api_key<- "ANKWk2vZMzGhXNGVMPXNvsMjV"
-  api_secret <- "DNVlon0EdmsLCdQrdaY3z6KkrLcdsTMvVXhNzf3TGwoDTQUjjf"
-  access_token <- "543925317-j0txuAH9y9OjOIoK42Mu3vdp7StCp4asc4uQQjuw"
-  access_token_secret <- "274gD6tVSQTJ5SLva7xQAFvi6FBnryExckaxcCNmWJZCG"
+  api_key<- "SM removed"
+  api_secret <- "SM removed"
+  access_token <- "SM removed"
+  access_token_secret <- "SM removed"
   setup_twitter_oauth(api_key,api_secret,access_token,access_token_secret)
 
   #Number of records to retrieve
